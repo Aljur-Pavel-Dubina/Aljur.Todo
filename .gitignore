@@ -4,3 +4,9 @@
 
 /src/Todo.Api/bin/Debug/netcoreapp3.1
 /src/Todo.Api/obj
+/src/Application/bin/Debug/netcoreapp3.1
+/src/Application/obj
+/src/Domain/bin/Debug/netcoreapp3.1
+/src/Domain/obj
+/src/Infrastructure/bin/Debug/netcoreapp3.1
+/src/Infrastructure/obj
